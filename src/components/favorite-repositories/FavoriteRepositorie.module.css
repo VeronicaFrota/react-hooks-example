@@ -1,0 +1,14 @@
+
+.buttonDesFav, .buttonSearch {
+    color: #60d9fa !important;
+    background: #000000 !important;
+    margin: 12px 0px 0px 12px !important;
+}
+
+.starIconFav {
+    color: #fbff00 !important;
+}
+
+.starIconDes {
+    color: #ff0080 !important;
+}

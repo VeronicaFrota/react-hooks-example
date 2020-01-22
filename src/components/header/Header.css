@@ -1,0 +1,38 @@
+.menu {
+    background     : #212121;
+    max-width      : 100%;
+    margin         : 0 auto;
+    padding        : 4px 0;
+    display        : flex;
+    flex-wrap      : wrap;
+    justify-content: space-between;
+    align-items    : center;
+}
+
+.menuLogo a {
+    text-decoration: none;
+    color          : #60d9fa;
+    margin-left    : 10px;
+    font-weight    : bold;
+    font-size      : 1.45em;
+}
+
+.menuNavLink {
+    text-decoration: none;
+    color          : #60d9fa;
+}
+
+.menuNav ul {
+    list-style: none;
+    display   : flex;
+    flex-wrap : wrap;
+}
+
+.menuNav li {
+    margin-right: 25px;
+    cursor      : pointer;
+}
+
+.menuNav li:hover {
+    color: #ff0080;
+}
