@@ -1,4 +1,4 @@
-## Exemplos simples de utilização de Hooks e consumo de API do GitHub com listagem de repositórios a partir de um determinado usuário 
+## Exemplo simples de utilização de Hooks e consumo de API do GitHub com listagem de repositórios a partir de um determinado usuário 
 - Este projeto foi criado com o ReactJS.<br/>
 O projeto consiste utilizar hooks para realizar o consumo de uma API do GitHub para realizar a listagens de repositórios de um determinado usuário
 
